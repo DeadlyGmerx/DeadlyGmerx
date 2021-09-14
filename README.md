@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Karan Bhati
 - 👀 I’m interested in Learing and Adapting to new technologies
 - 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail me at - kbnoname1.2@gmail.com
 
 <!---
